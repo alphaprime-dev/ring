@@ -17,8 +17,6 @@ install_requires = [
     'six>=1.11.0',
     'wirerope==0.4.5',
     'attrs>=19.3.0',
-    'inspect2>=0.1.0;python_version<"3.0.0"',
-    'functools32>=3.2.3-2>=0.1.0;python_version<"3.0"',
 ]
 tests_require = [
     'pytest>=3.10.1', 'pytest-cov', 'pytest-lazy-fixture==0.6.2',
